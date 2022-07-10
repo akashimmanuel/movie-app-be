@@ -1,0 +1,395 @@
+2022-07-10 18:15:49:1549 info: Connected to database  5000
+2022-07-10 18:15:53:1553 info: Connected to database  
+2022-07-10 18:15:59:1559 info: Connected to database successfully 
+2022-07-10 18:16:06:166 info: Connected to database successfully 
+2022-07-10 18:16:11:1611 info: Connected to database successfully 
+2022-07-10 18:16:31:1631 info: listening on port 5000
+2022-07-10 18:16:33:1633 info: Connected to database successfully 
+2022-07-10 18:16:43:1643 info: listening on port 5000
+2022-07-10 18:16:43:1643 info: Connected to database successfully 
+2022-07-10 18:17:10:1710 info: listening on port 5000
+2022-07-10 18:17:11:1711 info: Connected to database successfully 
+2022-07-10 18:17:39:1739 info: listening on port 5000
+2022-07-10 18:17:39:1739 info: Connected to database successfully 
+2022-07-10 18:17:53:1753 info: listening on port 5000
+2022-07-10 18:17:55:1755 info: Connected to database successfully 
+2022-07-10 18:17:58:1758 info: listening on port 5000
+2022-07-10 18:18:00:180 info: Connected to database successfully 
+2022-07-10 18:18:26:1826 info: listening on port 5000
+2022-07-10 18:18:26:1826 info: Connected to database successfully 
+2022-07-10 18:19:21:1921 info: listening on port 5000
+2022-07-10 18:19:22:1922 info: Connected to database successfully 
+2022-07-10 18:20:25:2025 info: listening on port 5000
+2022-07-10 18:20:25:2025 info: Connected to database successfully 
+2022-07-10 18:22:39:2239 info: listening on port 5000
+2022-07-10 18:22:39:2239 info: Connected to database successfully 
+2022-07-10 18:23:17:2317 info: listening on port 5000
+2022-07-10 18:23:18:2318 info: Connected to database successfully 
+2022-07-10 18:23:22:2322 info: listening on port 5000
+2022-07-10 18:23:22:2322 info: Connected to database successfully 
+2022-07-10 18:27:42:2742 info: listening on port 5000
+2022-07-10 18:27:43:2743 info: Connected to database successfully 
+2022-07-10 18:28:13:2813 info: listening on port 5000
+2022-07-10 18:28:14:2814 info: Connected to database successfully 
+2022-07-10 18:31:08:318 info: listening on port 5000
+2022-07-10 18:31:09:319 info: Connected to database successfully 
+2022-07-10 18:31:21:3121 info: listening on port 5000
+2022-07-10 18:31:21:3121 info: Connected to database successfully 
+2022-07-10 18:31:30:3130 info: listening on port 5000
+2022-07-10 18:31:30:3130 info: Connected to database successfully 
+2022-07-10 18:33:03:333 info: listening on port 5000
+2022-07-10 18:33:03:333 info: Connected to database successfully 
+2022-07-10 18:35:49:3549 info: listening on port 5000
+2022-07-10 18:35:50:3550 info: Connected to database successfully 
+2022-07-10 18:36:05:365 info: listening on port 5000
+2022-07-10 18:36:05:365 info: Connected to database successfully 
+2022-07-10 18:36:33:3633 info: listening on port 5000
+2022-07-10 18:36:33:3633 info: Connected to database successfully 
+2022-07-10 18:37:01:371 info: listening on port 5000
+2022-07-10 18:37:01:371 info: Connected to database successfully 
+2022-07-10 18:37:42:3742 info: listening on port 5000
+2022-07-10 18:37:43:3743 info: Connected to database successfully 
+2022-07-10 18:37:52:3752 info: listening on port 5000
+2022-07-10 18:37:54:3754 info: Connected to database successfully 
+2022-07-10 18:38:42:3842 info: listening on port 5000
+2022-07-10 18:38:42:3842 info: Connected to database successfully 
+2022-07-10 18:38:47:3847 info: listening on port 5000
+2022-07-10 18:38:48:3848 info: Connected to database successfully 
+2022-07-10 18:39:08:398 info: listening on port 5000
+2022-07-10 18:39:08:398 info: Connected to database successfully 
+2022-07-10 18:41:37:4137 info: listening on port 5000
+2022-07-10 18:41:37:4137 info: Connected to database successfully 
+2022-07-10 18:41:53:4153 info: listening on port 5000
+2022-07-10 18:41:53:4153 info: Connected to database successfully 
+2022-07-10 18:42:04:424 info: listening on port 5000
+2022-07-10 18:42:05:425 info: Connected to database successfully 
+2022-07-10 18:42:48:4248 info: listening on port 5000
+2022-07-10 18:42:49:4249 info: Connected to database successfully 
+2022-07-10 18:43:51:4351 info: listening on port 5000
+2022-07-10 18:43:51:4351 info: Connected to database successfully 
+2022-07-10 18:44:05:445 info: listening on port 5000
+2022-07-10 18:44:05:445 info: Connected to database successfully 
+2022-07-10 18:44:18:4418 info: listening on port 5000
+2022-07-10 18:44:20:4420 info: Connected to database successfully 
+2022-07-10 18:45:55:4555 info: Movie found: {
+  _id: new ObjectId("62bed058dd8fe70d3f9b3d7a"),
+  movie_name: 'Arya',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bed063dd8fe70d3f9b3d7c"),
+  movie_name: 'zoobie',
+  rating: 4,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfe47d3c0bb5835e051875"),
+  movie_name: 'test',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfed980cfbba6d93aab15c"),
+  movie_name: 'test1',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62c00f79724c41e30be4049b"),
+  movie_name: 'Beast',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-02-10T00:00:00.000Z,
+  __v: 0
+}
+2022-07-10 18:50:43:5043 info: listening on port 5000
+2022-07-10 18:50:43:5043 info: Connected to database successfully 
+2022-07-10 18:51:02:512 info: Movie found: {
+  _id: new ObjectId("62bed058dd8fe70d3f9b3d7a"),
+  movie_name: 'Arya',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bed063dd8fe70d3f9b3d7c"),
+  movie_name: 'zoobie',
+  rating: 4,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfe47d3c0bb5835e051875"),
+  movie_name: 'test',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfed980cfbba6d93aab15c"),
+  movie_name: 'test1',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62c00f79724c41e30be4049b"),
+  movie_name: 'Beast',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-02-10T00:00:00.000Z,
+  __v: 0
+}
+2022-07-10 18:52:34:5234 info: Added new movie: {
+  movie_name: 'Ak',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  _id: new ObjectId("62cad29abc768fce1da493a9"),
+  __v: 0
+}
+2022-07-10 18:52:40:5240 info: Movie found: {
+  _id: new ObjectId("62bed058dd8fe70d3f9b3d7a"),
+  movie_name: 'Arya',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bed063dd8fe70d3f9b3d7c"),
+  movie_name: 'zoobie',
+  rating: 4,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfe47d3c0bb5835e051875"),
+  movie_name: 'test',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfed980cfbba6d93aab15c"),
+  movie_name: 'test1',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62c00f79724c41e30be4049b"),
+  movie_name: 'Beast',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-02-10T00:00:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62cad29abc768fce1da493a9"),
+  movie_name: 'Ak',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+}
+2022-07-10 18:53:55:5355 info: listening on port 5000
+2022-07-10 18:53:57:5357 info: Connected to database successfully 
+2022-07-10 18:54:02:542 info: listening on port 5000
+2022-07-10 18:54:02:542 info: Connected to database successfully 
+2022-07-10 18:54:04:544 info: listening on port 5000
+2022-07-10 18:54:05:545 info: Connected to database successfully 
+2022-07-10 18:54:49:5449 info: listening on port 5000
+2022-07-10 18:54:49:5449 info: Connected to database successfully 
+2022-07-10 18:55:15:5515 info: Movie found: {
+  _id: new ObjectId("62bed058dd8fe70d3f9b3d7a"),
+  movie_name: 'Arya',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bed063dd8fe70d3f9b3d7c"),
+  movie_name: 'zoobie',
+  rating: 4,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfe47d3c0bb5835e051875"),
+  movie_name: 'test',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfed980cfbba6d93aab15c"),
+  movie_name: 'test1',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62c00f79724c41e30be4049b"),
+  movie_name: 'Beast',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-02-10T00:00:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62cad29abc768fce1da493a9"),
+  movie_name: 'Ak',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+}
+2022-07-10 18:56:20:5620 info: listening on port 5000
+2022-07-10 18:56:20:5620 info: Connected to database successfully 
+2022-07-10 18:57:54:5754 info: Updated movie: [object Object]
+2022-07-10 18:58:08:588 info: Movie found: {
+  _id: new ObjectId("62bed058dd8fe70d3f9b3d7a"),
+  movie_name: 'Arya',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bed063dd8fe70d3f9b3d7c"),
+  movie_name: 'zoobie',
+  rating: 4,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfe47d3c0bb5835e051875"),
+  movie_name: 'Johnny depp',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62bfed980cfbba6d93aab15c"),
+  movie_name: 'test1',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62c00f79724c41e30be4049b"),
+  movie_name: 'Beast',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-02-10T00:00:00.000Z,
+  __v: 0
+},{
+  _id: new ObjectId("62cad29abc768fce1da493a9"),
+  movie_name: 'Ak',
+  rating: 5,
+  cast: [ 'Tom Sawyer', 'Kamal' ],
+  genre: 'drama',
+  release_date: 2022-12-09T18:30:00.000Z,
+  __v: 0
+}
+2022-07-10 18:59:21:5921 error: Failed to connect to MongoDB
+2022-07-10 18:59:22:5922 info: Connected to database successfully 
+2022-07-10 18:59:33:5933 info: listening on port 5000
+2022-07-10 18:59:34:5934 info: Connected to database successfully 
+2022-07-10 18:59:38:5938 info: listening on port 5000
+2022-07-10 18:59:39:5939 info: Connected to database successfully 
+2022-07-10 19:02:52:252 info: listening on port 5000
+2022-07-10 19:02:52:252 info: Connected to database successfully 
+2022-07-10 19:02:56:256 info: listening on port 5000
+2022-07-10 19:02:57:257 info: Connected to database successfully 
+2022-07-10 19:03:07:37 info: listening on port 5000
+2022-07-10 19:03:08:38 info: Connected to database successfully 
+2022-07-10 19:03:23:323 info: listening on port 5000
+2022-07-10 19:03:24:324 info: Connected to database successfully 
+2022-07-10 19:04:20:420 info: listening on port 5000
+2022-07-10 19:04:20:420 info: Connected to database successfully 
+2022-07-10 19:04:42:442 info: listening on port 5000
+2022-07-10 19:04:42:442 info: Connected to database successfully 
+2022-07-10 19:05:35:535 info: listening on port 5000
+2022-07-10 19:05:36:536 info: Connected to database successfully 
+2022-07-10 19:05:42:542 info: listening on port 5000
+2022-07-10 19:05:43:543 info: Connected to database successfully 
+2022-07-10 19:05:55:555 info: listening on port 5000
+2022-07-10 19:05:56:556 info: listening on port 5000
+2022-07-10 19:05:57:557 info: Connected to database successfully 
+2022-07-10 19:06:05:65 info: listening on port 5000
+2022-07-10 19:06:05:65 info: Connected to database successfully 
+2022-07-10 19:06:14:614 info: listening on port 5000
+2022-07-10 19:06:15:615 info: Connected to database successfully 
+2022-07-10 19:06:18:618 info: listening on port 5000
+2022-07-10 19:06:19:619 info: Connected to database successfully 
+2022-07-10 19:06:21:621 info: listening on port 5000
+2022-07-10 19:06:22:622 info: Connected to database successfully 
+2022-07-10 19:06:34:634 info: listening on port 5000
+2022-07-10 19:06:34:634 info: Connected to database successfully 
+2022-07-10 19:07:11:711 info: listening on port 5000
+2022-07-10 19:07:13:713 info: Connected to database successfully 
+2022-07-10 19:07:15:715 info: listening on port 5000
+2022-07-10 19:07:16:716 info: Connected to database successfully 
+2022-07-10 19:07:49:749 info: listening on port 5000
+2022-07-10 19:07:50:750 info: Connected to database successfully 
+2022-07-10 19:26:54:2654 error: Failed to connect to MongoDB
+2022-07-10 19:27:04:274 info: Connected to database successfully 
+2022-07-10 19:32:17:3217 info: listening on port 5000
+2022-07-10 19:32:18:3218 info: Connected to database successfully 
+2022-07-10 19:32:55:3255 info: listening on port 5000
+2022-07-10 19:32:56:3256 info: Connected to database successfully 
+2022-07-10 19:33:39:3339 info: listening on port 5000
+2022-07-10 19:33:39:3339 info: Connected to database successfully 
+2022-07-10 19:33:57:3357 info: listening on port 5000
+2022-07-10 19:33:58:3358 info: Connected to database successfully 
+2022-07-10 19:34:02:342 info: listening on port 5000
+2022-07-10 19:34:03:343 info: Connected to database successfully 
+2022-07-10 19:34:05:345 info: listening on port 5000
+2022-07-10 19:34:07:347 info: Connected to database successfully 
+2022-07-10 19:34:14:3414 info: listening on port 5000
+2022-07-10 19:34:14:3414 info: Connected to database successfully 
+2022-07-10 19:34:22:3422 info: listening on port 5000
+2022-07-10 19:34:22:3422 info: Connected to database successfully 
+2022-07-10 19:34:56:3456 info: listening on port 5000
+2022-07-10 19:34:57:3457 info: Connected to database successfully 
+2022-07-10 19:35:26:3526 info: listening on port 5000
+2022-07-10 19:35:27:3527 info: Connected to database successfully 
+2022-07-10 19:39:25:3925 info: listening on port 5000
+2022-07-10 19:39:25:3925 info: Connected to database successfully 
+2022-07-10 19:44:06:446 info: listening on port 5000
+2022-07-10 19:44:06:446 info: Connected to database successfully 
+2022-07-10 19:44:22:4422 info: Updated movie: [object Object]
+2022-07-10 19:45:10:4510 info: listening on port 5000
+2022-07-10 19:45:11:4511 info: Connected to database successfully 
+2022-07-10 19:45:56:4556 info: Deleted movie: [object Object]
